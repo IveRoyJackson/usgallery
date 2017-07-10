@@ -1,4 +1,5 @@
 <h1>UsGallery</h1>
+<img src="https://img.shields.io/badge/license-GPLv3-blue.svg" />
 <hr>
 <h3>关于UsGallery</h3>
 <br />
